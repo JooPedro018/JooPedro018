@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+João+Pedro;Sou+Estudante+de+Desenvolvimento+de+sistemas(ADS);Seja+bem-vindo!)](https://git.io/typing-svg)  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JooPedro018&show_icons=true&theme=github_dark" />
+</p>
 
   <div align="center">  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=white"</a>
